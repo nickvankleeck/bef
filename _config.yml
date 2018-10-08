@@ -3,7 +3,7 @@ title: Vision Arizona - A Better Future, For All of Us
 description: > # this means to ignore newlines until "baseurl:"
   Common-sense solutions that move Arizona forward. Quality K-12 education. An honest discussion about immigration. 
 permalink: ':title/'
-baseurl: "/bef" # the subpath of your site, e.g. /blog
+baseurl: "/Vision" # the subpath of your site, e.g. /blog
 url: "http//visionaz.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
