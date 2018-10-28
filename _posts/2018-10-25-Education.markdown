@@ -2,7 +2,7 @@
 layout: post
 title: "Arizona: Education"
 img: canyon.jpg # Add image post (optional)
-date: 2018-10-27 12:54:00 +0300
+date: 2018-10-25 12:54:00 +0300
 description:  # Add post description (optional)
 tag: [Arizona, Governor, Ducey, Garcia, Arizona Senate, Arizona House, Red for Ed]
 ---

@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Common-sense solutions that move Arizona forward. Quality K-12 education. An honest discussion about immigration. 
 permalink: ':title/'
 baseurl: "/bef" # the subpath of your site, e.g. /blog
-url: "http//visionaz.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://visionaz.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
@@ -12,12 +12,12 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
+author-pic: # your photo
 author-name: Vision Arizona
-about-author: Just a few folks doing their best to bring about a truth-centered, sane conversation about Arizona politics
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+about-author: Arizonans doing their best to start a sane conversation about Arizona politics
+email: VisionArizona2020@gmail.com# your email
+phone: # your pnone number
+website: https://visionaz.org # you website
 
 # Social link
 google_url:    # add url link
@@ -28,7 +28,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier
+discus_identifier: # add your discus identifier
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
