@@ -73,7 +73,7 @@ layout: default
 
   <section class="recent_box">
     <div class="post_wrapper">
-      <h2 class="recent_title">Recent post</h2>
+      <h2 class="recent_title">Recent Posts</h2>
       <div class="recent_list">
         {% for post in site.posts offset:0 limit:6 %}
           {% if post.title %}
@@ -84,7 +84,7 @@ layout: default
     </div>
   </section> <!-- End Section Recent Box -->
   
-  {% include disqus.html %}
+  <!--{% include disqus.html %} -->
   
 </main> <!-- End Section Post Content -->
 
