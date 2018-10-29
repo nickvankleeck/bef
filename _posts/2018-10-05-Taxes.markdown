@@ -3,7 +3,7 @@ layout: post
 title: "Taxes, Medicare and Social Security"
 img: canyon.jpg # Add image post (optional)
 slide: TaxCutSinema.jpg
-date: 2010-10-05 12:52:00 +0300
+date: 2018-10-05 12:52:00 +0300
 description:  # Add post description (optional)
 tag: [Taxes, Tax Cuts, Medicare, Social Security, Balanced Budgets]
 ---
