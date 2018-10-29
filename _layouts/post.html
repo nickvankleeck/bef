@@ -20,9 +20,11 @@ layout: default
     <div class="entry_content">
       {{page.content | markdownify}}
     </div>
-    <div class="post_image">
-      <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.slide}} alt="{{page.title}}">
-    </div>
+    <header>
+      <div class="post_image">
+        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.slide}} alt="{{page.title}}">
+      </div>
+    </header>
     
     <div class="post_wrapper">
       <footer class="post_footer cf">
